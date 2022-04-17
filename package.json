@@ -1,10 +1,10 @@
 {
-  "name": "nodecg-vue-ts-template",
+  "name": "nodecg-usual",
   "version": "1.0.0",
   "description": "Template for NodeCG bundles that use Vue.js and TypeScript.",
-  "homepage": "https://github.com/zoton2/nodecg-vue-ts-template#readme",
+  "homepage": "https://github.com/na2na-p/nodecg-usual#readme",
   "bugs": {
-    "url": "https://github.com/zoton2/nodecg-vue-ts-template/issues"
+    "url": "https://github.com/na2na-p/nodecg-usual/issues"
   },
   "repository": {
     "type": "git",
